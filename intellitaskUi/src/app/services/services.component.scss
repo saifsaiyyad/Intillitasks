@@ -1,0 +1,31 @@
+
+@import '../../assets/styles/variable.scss';
+
+.services{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  img{
+    width: 100%;
+
+  }
+  .btn{
+    border:1px solid #ccc;
+    // background-color: $primary-color;
+    &:hover{
+          background-color: $primary-color;
+          color:#fff;
+
+
+    }
+  }
+  .service-list{
+    font-family: $primary-font;
+    list-style-type: none;
+    li{
+      margin-bottom: 12px;
+
+    }
+  }
+  // font-family: $primary-font;
+
+}

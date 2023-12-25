@@ -1,0 +1,36 @@
+@import '../../assets/styles/variable.scss';
+
+.slider{
+  background: #ccc3;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-shadow: 0 2px 4px 0 rgba(144, 98, 201, 0.415);
+  h4{
+    strong{
+      color:$primary-color;
+
+    }
+    padding-bottom:20px ;
+  }
+  h1{
+
+  font-size: 70px;
+  // font-family: ivar text,Sans-serif;
+  font-family:$monospace-font;
+  padding-bottom:20px ;
+  line-height: 1.1em;
+  letter-spacing: -.2px;
+
+}
+
+  .btn-custome{
+    text-align: center;
+    background-color: $primary-color;
+    color:#fff;
+    margin-top: 20px;
+
+  }
+font-family: $primary-font;
+
+}

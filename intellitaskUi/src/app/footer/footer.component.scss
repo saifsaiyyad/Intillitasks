@@ -1,0 +1,22 @@
+// @import '../../styles.scss';
+@import '../../assets/styles/variable.scss';
+.footer{
+  background-color: #0E1117;
+  padding-top: 40px;
+  img{
+    width:200px;
+    height: 50px;
+  }
+  color:#fff;
+  strong{
+    color:$primary-color;
+  }
+  .footer-btm{
+    padding-top:20px ;
+
+  }
+  .contact-mail{
+    border-bottom: 1px solid #ccc;
+  }
+  font-family: $primary-font;
+}
