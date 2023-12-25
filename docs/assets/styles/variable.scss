@@ -1,0 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+$primary-color: #d83030;
+$primary-font:'Roboto', sans-serif;
+$monospace-font:'ui-monospace';
+.primary-color{
+  color:$primary-color
+}
+.primary-font{
+  color:$primary-font
+}
+.monospace-font{
+  color:$primary-font
+}
+
+
